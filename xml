@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ROOT C1="ARQUIVO XML RETORNO DA TRANSACAO TJSB">
+    <CABTR  TAMTOTAL="0003716" CDPGM="TJSB" />
+    <CAB A="TJSB" B="001" C="004194981" D="" E="004194981" F="000" G="" H="" I="" J="000001" K="004194981" L="2016" M="001" N="002002" />
+    <DADOS A="002002" B="2016">
+        <LETAPA    A="2" B=" Preenchimento" C="001" D=" " >
+            <LATIVIDADE A="2" B=" Preencher minhas metas" C="00001" D="000001" />
+            <LATIVIDADE A="2" B=" Aprovar metas da minha equipe" C="00002" D="000001" />
+        </LETAPA>
+        <LETAPA    A=" " B="" C="" ></LETAPA>
+        <LETAPA    A="4" B=" Indicação de avaliadores (Eixo Y)" C="002" >
+            <LATIVIDADE A="4" B=" Efetuar minha indicação de avaliadores" C="00001" D="000001" />
+            <LATIVIDADE A="4" B=" Aprovar indicação de avaliadores da minha equipe" C="00002" D="000001" />
+        </LETAPA>
+        <LETAPA    A=" " B="" C="" ></LETAPA>
+        <LETAPA    A=" " B="" C="1831TJSBH" ></LETAPA>
+        <LETAPA    A="4" B=" Avaliação comportamental (Eixo Y)" C="011" >
+            <LATIVIDADE A="4" B=" Efetuar autoavaliação" C="00001" D="000001" />
+            <LATIVIDADE A="4" B=" Avaliar minha equipe - especialista e equipe" C="00004" D="000001" />
+        </LETAPA>
+        <LETAPA    A="4" B=" Avaliação de Resultados (Eixo X)" C="004" >
+            <LATIVIDADE A="4" B=" Efetuar autoavaliação" C="00001" D="000001" />
+            <LATIVIDADE A="4" B=" Avaliar minha equipe" C="00004" D="000001" />
+        </LETAPA>
+        <LETAPA    A="4" B=" Feedback" C="005" >
+            <LATIVIDADE A="4" B=" Registrar o feedback da minha equipe" C="00002" D="000001" />
+            <LATIVIDADE A="4" B=" Registrar recebimento de feedback" C="00001" D="000001" />
+        </LETAPA>
+        <LETAPA    A=" " B="" C="" ></LETAPA>
+    </DADOS>
+</ROOT>
